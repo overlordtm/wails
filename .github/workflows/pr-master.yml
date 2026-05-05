@@ -10,6 +10,8 @@ on:
   workflow_dispatch: {}
 
 name: PR Checks (master)
+permissions:
+  contents: read
 
 jobs:
   check_docs:
