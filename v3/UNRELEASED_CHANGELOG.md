@@ -24,6 +24,7 @@ After processing, the content will be moved to the main changelog and this file 
 
 ## Fixed
 <!-- Bug fixes -->
+- Use lastSizeWParam to gate menubar redraws on Windows in [PR](https://github.com/wailsapp/wails/pull/5382) by @taliesin-ai
 
 ## Deprecated
 <!-- Soon-to-be removed features -->
